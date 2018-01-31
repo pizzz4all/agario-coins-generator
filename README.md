@@ -1,0 +1,1 @@
+# agario-coins-generator
